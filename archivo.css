@@ -1,0 +1,542 @@
+
+html, body {
+  margin: 0;
+  min-height: 100%;
+  min-width: 100%;
+  padding: 0;
+  font-family: "Source Sans 3", sans-serif;
+}
+.titulo {
+  font-family: "Headland One", serif;
+}
+
+.tipo {
+  font-family: "Headland One", serif;
+}
+
+
+.bienvenida {
+  font-family: "Headland One", serif;
+  font-size: 28px;
+}
+
+
+body {
+  background-color: #232946;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100vw;
+  min-height: 100vh;
+  color: antiquewhite;
+  
+}
+
+* {
+  box-sizing: border-box;
+ 
+}
+
+h3 {
+  color: #000000;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+header {
+  background-color: white;
+  width: 1920px;
+  
+
+}
+
+
+a {
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 40px;
+}
+.asd {
+  justify-content: space-between;
+  margin-right: 50px;
+}
+
+
+nav ul {
+  display: flex;
+  
+
+  
+}
+
+
+.remera {
+  border: 500px;
+ 
+    left: 2415px;
+    top: -3014px;
+    width: 127px; 
+    height: 71px;
+    color: #232946;
+ 
+    font-size: xx-large;
+    display: flex;
+    white-space: break-spaces;
+    align-items: flex-start;
+    list-style: none
+  
+   
+}
+
+.musculosa {
+  left: 2415px;
+  top: -3014px;
+  width: 127px;
+  height: 71px;
+  margin-right: 40px;
+text-align: center;
+color: #232946;
+  font-size: xx-large;
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+  list-style: none
+}
+
+
+.short{
+  left: 2415px;
+  top: -3014px;
+  width: 127px;
+  height: 71px;
+font-size: xx-large;
+  color: #232946;
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+  list-style: none
+}
+
+.logo {
+  
+  left: 2311px;
+  top: -2662px;
+  width: 400px;
+  height: 400px;
+  
+  border-radius: 0px;
+}
+
+.parserv {
+  font-size: 24px;
+}
+
+.mision {
+  left: 1275px;
+  top: -2001px;
+  width: 1225px;
+  height: 75px;
+  background: #B1B2B5;
+  border: 1px solid #000000;
+  border-radius: 0px;
+  list-style: none;
+  text-align: center;
+  font-size: xx-large;
+  color: #000000;
+  list-style: none;
+  margin-top: 45px;
+  margin-left: -40px;
+
+  
+
+}
+
+.vision {
+  left: 1275px;
+  top: -2001px;
+  width: 1225px;
+  height: 75px;
+  background: #B1B2B5;
+  border: 1px solid #000000;
+  border-radius: 0px;
+  list-style: none;
+  text-align: center;
+  font-size: xx-large;
+  color: #000000;
+  list-style: none;
+  display: block;
+  margin-top: 45px;
+  margin-right: 50px;
+
+  
+   
+}
+
+li{
+  list-style: none;
+}
+
+.vis {
+  list-style: none;
+}
+
+footer {
+  background-color: antiquewhite;
+  width: 2000px;
+  text-align: center;
+  font-size: 36px;
+}
+
+.servicios1 {
+  font-family: "Headland One", serif;
+  left: 1275px;
+  top: -2001px;
+  width: 1225px;
+  height: 75px;
+  background: #B1B2B5;
+  border: 1px solid #000000;
+  border-radius: 0px;
+  list-style: none;
+  text-align: center;
+  font-size: 40;
+  color: #000000;
+  list-style: none;
+  display: block;
+  margin-top: 45px;
+
+}
+
+.servicios2 {
+  font-family: "Headland One", serif;
+  left: 1275px;
+  top: -2001px;
+  width: 1225px;
+  height: 75px;
+  background: #B1B2B5;
+  border: 1px solid #000000;
+  border-radius: 0px;
+  list-style: none;
+  text-align: center;
+  font-size: xx-large;
+  color: #000000;
+  list-style: none;
+  display: block;
+  margin-top: 45px;
+
+}
+
+.propuesta {
+  font-family: "Headland One", serif;
+  left: 1275px;
+  top: -2001px;
+  width: 1225px;
+  height: 75px;
+  background: #B1B2B5;
+  border: 1px solid #000000;
+  border-radius: 0px;
+  list-style: none;
+  text-align: center;
+  font-size: xx-large;
+  color: #000000;
+  list-style: none;
+  display: block;
+  margin-top: 45px;
+}
+.mision {
+  font-family: "Headland One", serif;
+}
+.vision{
+  font-family: "Headland One", serif;
+}
+
+footer {
+  font-family: "Headland One", serif;
+}
+.header-menu {
+  text-align: center;
+  font-size: x-large;
+}
+
+.indumentaria{
+  margin-left: -1000px;
+}
+
+.precio {
+  margin-top: -500px;
+  font-size: 50px;
+}
+
+.pago {
+  margin-top: -30px;
+  font-size: 50px;
+  margin-left: 450px;
+  
+}
+
+.talles {
+  margin-top: 50px;
+  margin-right: 100px;
+  font-size: x-large;
+}
+
+.boton {
+  background-color: eebbc3;
+  font-size: xx-large;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: 232946;
+  width: 225px;
+  height: 102px;
+}
+
+
+.indumentaria2{
+  margin-left: -1000px;
+}
+
+.precio2 {
+  margin-top: -500px;
+  font-size: 50px;
+}
+
+.pago2 {
+  margin-top: -30px;
+  font-size: 50px;
+  margin-left: 450px;
+  
+}
+
+.talles2 {
+  margin-top: 50px;
+  margin-right: 100px;
+  font-size: x-large;
+}
+
+.boton2 {
+  background-color: eebbc3;
+  font-size: xx-large;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: 232946;
+  width: 225px;
+  height: 102px;
+}
+
+.indumentaria3{
+  margin-left: -1000px;
+}
+
+.precio3 {
+  margin-top: -500px;
+  font-size: 50px;
+}
+
+.pago3 {
+  margin-top: -30px;
+  font-size: 50px;
+  margin-left: 450px;
+  
+}
+
+.talles3 {
+  margin-top: 50px;
+  margin-right: 100px;
+  font-size: x-large;
+}
+
+.boton3 {
+  background-color: eebbc3;
+  font-size: xx-large;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: 232946;
+  width: 225px;
+  height: 102px;
+}
+
+.logo100 {
+  margin-right: 1700px;
+  margin-bottom: -65px;
+  align-items: baseline;
+  margin-top: 5px;
+} 
+
+.header-menu {
+  text-align: center;
+}
+
+.parrafo {
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+@media screen and (max-width:768px) and (min-width:600px) {
+  header {
+    max-width: 500px;
+  }
+  
+  .titulo {
+    max-width: 225px;
+    
+  }
+  .bienvenida {
+    max-width: 200px;
+    font-style: italic;
+    text-align: center;
+    margin-left: 250px;
+  }
+  .logo{
+    max-width: 300px;
+    max-height: 300px;
+    margin-right: 300px;
+    margin-top: -500px ;
+  }
+  .servicios1 {
+    max-width: 500px;
+    margin-top: 200px;
+  }
+  .servicios2 {
+    max-width: 500px;
+  }
+  .propuesta {
+    max-width: 500px;
+    margin-top: 10px;
+  }
+  .mision {
+    max-width: 500px;
+    margin-right: 40px;
+    margin-top: 20px;
+  }
+  .vision {
+   max-width: 500px;
+   margin-top: 10px;
+   margin-left: 10px;
+   
+  }
+
+  footer {
+    max-width: 1000px;
+    text-decoration: solid;
+  }
+
+  .header-menu{
+    max-width: 770px;
+   
+  }  
+  .logo100{
+    max-width: 400px;
+    margin-left: 20px;
+    margin-top: 20px;
+  } 
+  h3 {
+    max-width: 450px;
+    margin-left: 300px;
+    
+  }
+
+  .indumentaria{
+    max-width: 370px;
+    margin-left: -250px;
+  }
+  
+  .precio{
+    max-width: 400px;
+    margin-left: 420px;
+    margin-top: -450px;
+    font-size: 45px;
+  }
+  .pago {
+    max-width: 300px;
+    margin-top: 20px;
+    font-size: 40px;
+  }
+  .talles{
+    max-width: 400px;
+    margin-left: 455px;
+    margin-top: -20px;
+  }
+
+  .boton {
+    max-width: 900px;
+    margin-top: 20px;
+
+  }
+
+  .indumentaria2{
+    max-width: 400px;
+    margin-left: -300px;
+  }
+  
+  .precio2{
+    max-width: 400px;
+    margin-left: 410px;
+    margin-top: -400px;
+    margin-bottom: 50px;
+    font-size: 45px;
+
+  }
+
+  .pago2{
+    max-width: 400px;
+    margin-top: 20px;
+    font-size: 40px;
+
+  }
+  .talles2{
+    max-width: 500px;
+    margin-left: 455px;
+    margin-top: -20px;
+  }
+  .boton2 {
+    margin-left: -230px;
+    margin-top: -40px;
+  }
+  .indumentaria3{
+    max-width: 320px;
+    margin-left: -250px;
+  }
+  
+  .precio3{
+    max-width: 400px;
+    margin-left: 420px;
+    margin-top: -500px;
+    font-size: 45px;
+  }
+  .pago3 {
+    max-width: 300px;
+    margin-top: 20px;
+    font-size: 40px;
+  }
+  .talles3{
+    max-width: 400px;
+    margin-left: 455px;
+    margin-top: -20px;
+  }
+
+  .boton3{
+    max-width: 900px;
+    margin-top: 70px;
+    margin-left: -220px;
+
+  }
+
+  h1{
+    max-width: 400px;
+    font-size: 45px;
+    text-align: center;
+
+  }
+  .parrafo {
+    max-width: 600px;
+    font-size: 35px;
+  }
+
+
+
+
+
+
+  
+}
+
+  
